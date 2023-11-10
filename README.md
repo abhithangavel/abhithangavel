@@ -2,7 +2,14 @@ Hello, I'm Shri Abhiraami Thangavel, a dynamic professional on the exciting jour
 
 I have a multi-faceted background in Architecture, Project Management and Data Science which has shaped me into an effective communicator with different teams, fast-learner, attention to detail, problem solver and a person who is open to challenges.
 
-
+- Programming Languages: Python, R
+- Databases : MySQL
+- Data Visualization : Tableau, PowerBI
+- ML Frameworks : Pandas, Numpy, NetworkX, Matplotlib, Scikit-learn, TensorFlow, NLTK, BERT, Pyspark
+- Certification: Microsoft Azure Fundamentals
+- Project Management : Agile, Crisp-DM
+- Other tools and technologies : Excel, PowerPoint, Word, Photoshop, Illustrator, Premiere Pro, Microsoft Project, AutoCAD, Google Analytics
+- Skills : Statistical Modeling, Machine Learning, Predictive Modeling, Clustering, Neural Networks, Time Series Analysis, EDA, Feature Engineering, Data Visualization, Data Warehousing, Working with large datasets
 
 <!--
 **abhithangavel/abhithangavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
