@@ -12,7 +12,7 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Skills : Statistical Modeling, Machine Learning, Predictive Modeling, Clustering, Neural Networks, Time Series Analysis, EDA, Feature Engineering, Data Visualization, Data Warehousing, Working with large datasets
 
 ### Competition Projects
-- Data Analytics Competition by Dakota State University
+- Data Analytics Competition by Dakota State University [[Repository]](https://github.com/abhithangavel/Data-Analytics-Competition-DSU)
 - Data4Good Competition by Purdue Univerisity [[Repository]](https://github.com/naveenp98/Data4Good)
 
 
