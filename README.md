@@ -11,6 +11,16 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Other tools and technologies : Excel, PowerPoint, Word, Photoshop, Illustrator, Premiere Pro, Microsoft Project, AutoCAD, Google Analytics
 - Skills : Statistical Modeling, Machine Learning, Predictive Modeling, Clustering, Neural Networks, Time Series Analysis, EDA, Feature Engineering, Data Visualization, Data Warehousing, Working with large datasets
 
+### Competition Projects
+- Data Analytics Competition by Dakota State University
+- Data4Good Competition by Purdue Univerisity [[Repository]](https://github.com/naveenp98/Data4Good)
+
+
+### Academic Projects
+- Sentiment Analysis [[Repository]](https://github.com/abhithangavel/Sentiment-Analysis-Project)
+- Groceries Market Basket Analysis [[Repository]](https://github.com/abhithangavel/Data-Mining-Project)
+- Credit Card Fraud Detection [[Repository]](https://github.com/abhithangavel/Machine-Learning-Project)
+
 ### Courses
 - Programming for Everybody [[Certificate]](https://coursera.org/share/75bddbe853d071e2a51be4d872a20022)
 - Introduction to Statistics [[Certificate]](https://coursera.org/share/abe1f228f8b1756a60a488359516b2d3)
@@ -25,16 +35,6 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Understanding Machine Learning [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/01c9e24a0a5bb32b9e871e78a9c9ef23248b0e14 )
 - Understanding Data Visualization [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/ed1ebefb90a07ebbbf273bbd4ac7bce160c12769)
 - Data Types for Data Science in Python [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/95ef4bf69a7ef0a302385203eeb73c136e484a1a)
-
-### Competition Projects
-- Data Analytics Competition by Dakota State University
-- Data4Good Competition by Purdue Univerisity [[Repository]](https://github.com/naveenp98/Data4Good)
-
-
-### Academic Projects
-- Sentiment Analysis [[Repository]](https://github.com/abhithangavel/Sentiment-Analysis-Project)
-- Groceries Market Basket Analysis [[Repository]](https://github.com/abhithangavel/Data-Mining-Project)
-- Credit Card Fraud Detection [[Repository]](https://github.com/abhithangavel/Machine-Learning-Project)
 
 <!--
 **abhithangavel/abhithangavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
