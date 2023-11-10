@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello, I'm Shri Abhiraami Thangavel, a dynamic professional on the exciting journey from Architecture and Project Management to Data Science. Currently pursuing a Master of Science in Business Data Science and Analytics at Michigan State University. I am currently interning as Data Science Intern at Roosevelt Innovations, a subsidiary company of Delta Dental of Michigan, where I am working on a intresting and much needed project on Fraud, Waste and Abuse.
+
+I have a multi-faceted background in Architecture, Project Management and Data Science which has shaped me into an effective communicator with different teams, fast-learner, attention to detail, problem solver and a person who is open to challenges.
+
+
 
 <!--
 **abhithangavel/abhithangavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
