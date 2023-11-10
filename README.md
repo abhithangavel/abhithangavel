@@ -11,6 +11,13 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Other tools and technologies : Excel, PowerPoint, Word, Photoshop, Illustrator, Premiere Pro, Microsoft Project, AutoCAD, Google Analytics
 - Skills : Statistical Modeling, Machine Learning, Predictive Modeling, Clustering, Neural Networks, Time Series Analysis, EDA, Feature Engineering, Data Visualization, Data Warehousing, Working with large datasets
 
+### Courses
+- Programming for Everybody [[Certificate]](https://coursera.org/share/75bddbe853d071e2a51be4d872a20022)
+- Introduction to Statistics [[Certificate]](https://coursera.org/share/abe1f228f8b1756a60a488359516b2d3)
+- Python Data Structures [[Certificate]](https://coursera.org/share/96e2e86a79fa985132279a1968e8a25d)
+- Introduction to Python [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/e18250775fb3e27711eda5c678f833bf3b866f1c)
+- 
+
 <!--
 **abhithangavel/abhithangavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
