@@ -26,6 +26,16 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Understanding Data Visualization [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/ed1ebefb90a07ebbbf273bbd4ac7bce160c12769)
 - Data Types for Data Science in Python [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/95ef4bf69a7ef0a302385203eeb73c136e484a1a)
 
+### Competition Projects
+- Data Analytics Competition by Dakota State University
+- Data4Good Competition by Purdue Univerisity [[Repository]](https://github.com/naveenp98/Data4Good)
+
+
+### Academic Projects
+- Sentiment Analysis [[Repository]](https://github.com/abhithangavel/Sentiment-Analysis-Project)
+- Groceries Market Basket Analysis [[Repository]](https://github.com/abhithangavel/Data-Mining-Project)
+- Credit Card Fraud Detection [[Repository]](https://github.com/abhithangavel/Machine-Learning-Project)
+
 <!--
 **abhithangavel/abhithangavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
