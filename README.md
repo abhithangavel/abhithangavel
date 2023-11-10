@@ -16,7 +16,15 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Introduction to Statistics [[Certificate]](https://coursera.org/share/abe1f228f8b1756a60a488359516b2d3)
 - Python Data Structures [[Certificate]](https://coursera.org/share/96e2e86a79fa985132279a1968e8a25d)
 - Introduction to Python [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/e18250775fb3e27711eda5c678f833bf3b866f1c)
-- 
+- Introduction to SQL [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/c70b01e4921273d15b0100c2c1a3664cc9b925a2)
+- Introduction to R [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/4600b509616d3eb5048daa241fef7a7c16f7f2a1)
+- Intermediate Python [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/efd9091653824012373271d71846646a369033f8)
+- Intermediate SQL [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/c814ff97dad38977728cea6aaea7923d0cdd8d35)
+- Intermediate R [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/6a661b8657af32bb3562e26274b467f43a2659ad)
+- Python Data Science Toolbox (Part 1) [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/f62e82c84419c3d9240bb5980866390303dfdd4c)
+- Understanding Machine Learning [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/01c9e24a0a5bb32b9e871e78a9c9ef23248b0e14 )
+- Understanding Data Visualization [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/ed1ebefb90a07ebbbf273bbd4ac7bce160c12769)
+- Data Types for Data Science in Python [[Certificate]](https://www.datacamp.com/completed/statement-of-accomplishment/course/95ef4bf69a7ef0a302385203eeb73c136e484a1a)
 
 <!--
 **abhithangavel/abhithangavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
