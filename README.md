@@ -16,10 +16,11 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Data4Good Competition by Purdue Univerisity [[Repository]](https://github.com/naveenp98/Data4Good)
 
 
-### Academic Projects
+### Miscellaneous Projects
 - Sentiment Analysis [[Repository]](https://github.com/abhithangavel/Sentiment-Analysis-Project)
 - Groceries Market Basket Analysis [[Repository]](https://github.com/abhithangavel/Data-Mining-Project)
 - Credit Card Fraud Detection [[Repository]](https://github.com/abhithangavel/Machine-Learning-Project)
+- Other Analytics and Visualization Projects [[Repository]](https://github.com/abhithangavel/Analytics-and-Visualization-Projects)
 
 ### Courses
 - Programming for Everybody [[Certificate]](https://coursera.org/share/75bddbe853d071e2a51be4d872a20022)
