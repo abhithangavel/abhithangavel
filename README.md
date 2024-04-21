@@ -19,6 +19,7 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Sentiment Analysis [[Repository]](https://github.com/abhithangavel/Sentiment-Analysis-Project)
 - Groceries Market Basket Analysis [[Repository]](https://github.com/abhithangavel/Data-Mining-Project)
 - Credit Card Fraud Detection [[Repository]](https://github.com/abhithangavel/Machine-Learning-Project)
+- Image Classification Projects [[Repository]](https://github.com/abhithangavel/Image-Classification)
 - Other Analytics and Visualization Projects [[Repository]](https://github.com/abhithangavel/Analytics-and-Visualization-Projects)
 
 ### Tableau Repository [[Link]](https://public.tableau.com/app/profile/abhiraami)
