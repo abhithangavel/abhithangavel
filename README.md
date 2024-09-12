@@ -12,7 +12,7 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Skills : Statistical Modeling, Machine Learning, Predictive Modeling, Clustering, Neural Networks, Time Series Analysis, EDA, Feature Engineering, Data Visualization, Data Warehousing, Working with large datasets
 
 ### Case Study Projects
-- Analysis on Launch of DermSkin ([Repository]](https://github.com/abhithangavel/DermSkin-Analysis)
+- Analysis on Launch of DermSkin [[Repository]](https://github.com/abhithangavel/DermSkin-Analysis)
 
 ### Competition Projects
 - Data Analytics Competition by Dakota State University [[Repository]](https://github.com/abhithangavel/Data-Analytics-Competition-DSU)
