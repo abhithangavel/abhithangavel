@@ -3,7 +3,7 @@ Hello, I'm Shri Abhiraami Thangavel, a dynamic professional on the exciting jour
 I have a multi-faceted background in Architecture, Project Management and Data Science which has shaped me into an effective communicator with different teams, fast-learner, attention to detail, problem solver and a person who is open to challenges.
 
 - Programming Languages: Python, R
-- Databases : MySQL
+- Databases : MySQL, PostgreSQL 
 - Data Visualization : Tableau, PowerBI
 - ML Frameworks : Pandas, Numpy, NetworkX, Matplotlib, Scikit-learn, TensorFlow, NLTK, BERT, Pyspark
 - Certification: Microsoft Azure Fundamentals
