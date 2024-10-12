@@ -11,8 +11,9 @@ I have a multi-faceted background in Architecture, Project Management and Data S
 - Other tools and technologies : Excel, PowerPoint, Word, Photoshop, Illustrator, Premiere Pro, Microsoft Project, AutoCAD, Google Analytics
 - Skills : Statistical Modeling, Machine Learning, Predictive Modeling, Clustering, Neural Networks, Time Series Analysis, EDA, Feature Engineering, Data Visualization, Data Warehousing, Working with large datasets
 
-### Case Study Projects
+### Case Study Projects and Presentations
 - Analysis on Launch of DermSkin [[Repository]](https://github.com/abhithangavel/DermSkin-Analysis)
+- Presented an Immersive Tableau Introductory course to students of Vellalar College for Women, Erode, Tamil Nadu India. [[Link]](https://github.com/abhithangavel/Tableau-Presentation)
 
 ### Competition Projects
 - Data Analytics Competition by Dakota State University [[Repository]](https://github.com/abhithangavel/Data-Analytics-Competition-DSU)
